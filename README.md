@@ -54,7 +54,7 @@ curl -o qoder.sh https://raw.githubusercontent.com/bunnysayzz/qoder-reset/main/q
 #### For Windows (PowerShell):
 ```powershell
 Invoke-WebRequest -Uri "https://raw.githubusercontent.com/bunnysayzz/qoder-reset/main/qoder_reset_windows.ps1" -OutFile "qoder_reset_windows.ps1"
-bash qoder.sh
+.\qoder_reset_windows.ps1
 ```
 
 ### Option 3: Windows Native Scripts (Easiest)
