@@ -41,20 +41,20 @@ chmod +x qoder.sh
 
 #### For macOS/Linux:
 ```bash
-curl -o qoder.sh https://raw.githubusercontent.com/bunnysayzz/qoder-reset/main/qoder.sh && chmod +x qoder.sh
+curl -o qoder.sh https://raw.githubusercontent.com/amine2004tech/qoder-reset/main/qoder.sh && chmod +x qoder.sh
 ./qoder.sh
 ```
 
 #### For Windows (Git Bash/WSL):
 ```bash
-curl -o qoder.sh https://raw.githubusercontent.com/bunnysayzz/qoder-reset/main/qoder.sh && chmod +x qoder.sh
+curl -o qoder.sh https://raw.githubusercontent.com/amine2004tech/qoder-reset/main/qoder.sh && chmod +x qoder.sh
 ./qoder.sh
 ```
 
 #### For Windows (PowerShell):
 ```powershell
-Invoke-WebRequest -Uri "https://raw.githubusercontent.com/bunnysayzz/qoder-reset/main/qoder_reset_windows.ps1" -OutFile "qoder_reset_windows.ps1"
-bash qoder.sh
+Invoke-WebRequest -Uri "https://raw.githubusercontent.com/amine2004tech/qoder-reset/main/qoder_reset_windows.ps1" -OutFile "qoder_reset_windows.ps1"
+.\qoder_reset_windows.ps1
 ```
 
 ### Option 3: Windows Native Scripts (Easiest)
